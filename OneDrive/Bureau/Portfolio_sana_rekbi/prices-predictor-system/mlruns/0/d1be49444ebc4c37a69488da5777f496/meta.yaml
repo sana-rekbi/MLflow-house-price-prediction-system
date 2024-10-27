@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/d1be49444ebc4c37a69488da5777f496/artifacts
+end_time: 1723408881174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1be49444ebc4c37a69488da5777f496
+run_name: aged-stork-77
+run_uuid: d1be49444ebc4c37a69488da5777f496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723408852323
+status: 3
+tags: []
+user_id: ayushsingh

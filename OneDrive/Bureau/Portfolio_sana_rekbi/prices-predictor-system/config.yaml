@@ -1,0 +1,13 @@
+enable_cache: False
+
+settings:
+  docker:
+    required_integrations:
+      - mlflow
+
+# Configuration of the Model Control Plane
+model:
+  name: prices_predictor
+  license: Apache 2.0
+  description: Predictor of housing prices.
+  tags: ["regression", "housing", "price_prediction"]

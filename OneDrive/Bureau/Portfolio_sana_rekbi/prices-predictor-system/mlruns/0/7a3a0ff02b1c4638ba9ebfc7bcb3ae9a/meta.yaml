@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/7a3a0ff02b1c4638ba9ebfc7bcb3ae9a/artifacts
+end_time: 1723409037178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a3a0ff02b1c4638ba9ebfc7bcb3ae9a
+run_name: sincere-gnat-659
+run_uuid: 7a3a0ff02b1c4638ba9ebfc7bcb3ae9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723409005038
+status: 3
+tags: []
+user_id: ayushsingh

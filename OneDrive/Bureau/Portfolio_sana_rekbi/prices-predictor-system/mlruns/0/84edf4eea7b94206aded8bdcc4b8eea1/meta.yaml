@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/84edf4eea7b94206aded8bdcc4b8eea1/artifacts
+end_time: 1723408659677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84edf4eea7b94206aded8bdcc4b8eea1
+run_name: enthused-newt-100
+run_uuid: 84edf4eea7b94206aded8bdcc4b8eea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723408613471
+status: 3
+tags: []
+user_id: ayushsingh
